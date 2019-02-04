@@ -1,7 +1,7 @@
 {
   "name": "sinkdweller",
   "version": "1.0.0",
-  "description": "A TypeScript-based frontend to radamsa. No dependencies on most platforms.",
+  "description": "A TypeScript-based frontend to the radamsa fuzzer. No dependencies on most platforms.",
   "main": "dist/Sinkdweller.js",
   "scripts": {
     "build": "npx tsc",
