@@ -1,6 +1,6 @@
 # sinkdweller
 
-[![Known Vulnerabilities](https://snyk.io/test/github/rarecoil/proper-dotfile/badge.svg?targetFile=package.json)](https://snyk.io/test/github/rarecoil/proper-dotfile?targetFile=package.json) [![Dependencies](https://david-dm.org/rarecoil/proper-dotfile.svg)](https://david-dm.org/)
+[![Known Vulnerabilities](https://snyk.io/test/github/rarecoil/sinkdweller/badge.svg?targetFile=package.json)](https://snyk.io/test/github/rarecoil/sinkdweller?targetFile=package.json) [![Dependencies](https://david-dm.org/rarecoil/sinkdweller.svg)](https://david-dm.org/)
 
 ### A simple Node/TypeScript wrapper for [radamsa](https://www.ee.oulu.fi/roles/ouspg/Radamsa).
 
