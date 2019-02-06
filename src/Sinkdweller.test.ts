@@ -1,5 +1,4 @@
 import Sinkdweller = require("./Sinkdweller");
-import { doesNotReject } from "assert";
 
 it('has a test harness', () => {
     expect('x').toBe('x');
