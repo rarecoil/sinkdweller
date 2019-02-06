@@ -1,6 +1,6 @@
 {
   "name": "sinkdweller",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A TypeScript-based frontend to the radamsa fuzzer. No dependencies on most platforms.",
   "main": "dist/Sinkdweller.js",
   "scripts": {
