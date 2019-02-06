@@ -24,12 +24,11 @@
   },
   "homepage": "https://github.com/rarecoil/sinkdweller#readme",
   "devDependencies": {
+    "@types/jest": "^24.0.0",
     "@types/node": "^10.12.21",
     "jest": "^24.1.0",
     "ts-jest": "^23.10.5",
     "typescript": "^3.3.1"
   },
-  "dependencies": {
-    "@types/jest": "^24.0.0"
-  }
+  "dependencies": {}
 }
