@@ -1,7 +1,6 @@
 language: node_js
 
 os:
-  - windows
   - linux
   - osx
 
@@ -16,7 +15,7 @@ branches:
 
 install:
   - npm install
-  - npm build
+  - npm run build
 
 script:
   npm test
