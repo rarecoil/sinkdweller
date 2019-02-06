@@ -86,13 +86,13 @@ class Sinkdweller {
      */
     public async fuzzAsync(input:string|Buffer):Promise<NodeJS.ErrnoException|string|Buffer> {
         return new Promise((resolve, reject) => {
-            this.spawnRadamsa(input, (err:string, result:string|Buffer) => {
+            this.fuzz(input, (err:string, result:string|Buffer) => {
                 if (err) {
                     reject(err);
                 } else {
                     resolve(result);
                 }
-            })
+            });
         });
     }
 

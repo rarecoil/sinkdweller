@@ -1,0 +1,20 @@
+language: node_js
+
+os:
+  - linux
+  - osx
+
+node_js:
+  - node
+
+branches:
+  only:
+    - master
+    - /^release-.*/
+
+install:
+  - npm install
+  - npm run build
+
+script:
+  npm test
