@@ -75,7 +75,7 @@ class Sinkdweller {
     fuzzAsync(input) {
         return __awaiter(this, void 0, void 0, function* () {
             return new Promise((resolve, reject) => {
-                this.spawnRadamsa(input, (err, result) => {
+                this.fuzz(input, (err, result) => {
                     if (err) {
                         reject(err);
                     }
