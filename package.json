@@ -1,6 +1,6 @@
 {
   "name": "sinkdweller",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A TypeScript-based frontend to the radamsa fuzzer. No dependencies on most platforms.",
   "main": "dist/Sinkdweller.js",
   "scripts": {
@@ -24,10 +24,10 @@
   },
   "homepage": "https://github.com/rarecoil/sinkdweller#readme",
   "devDependencies": {
-    "@types/jest": "^24.0.0",
+    "@types/jest": "^24.0.15",
     "@types/node": "^10.12.21",
-    "jest": "^24.1.0",
-    "ts-jest": "^23.10.5",
+    "jest": "^24.8.0",
+    "ts-jest": "^24.0.2",
     "typescript": "^3.3.1"
   },
   "dependencies": {}
