@@ -1,3 +1,4 @@
+/// <reference types="node" />
 declare type SeedFunction = () => number;
 interface RadamsaOptions {
     [key: string]: any;
